@@ -24,8 +24,8 @@ bash
 cd saunghoon_portfolio
 index.html 파일을 브라우저에서 열어 확인합니다.
 
-🌐 배포 링크
-🔗 포트폴리오 바로가기
+## 🌐 배포 링크
+🔗 [포트폴리오 바로가기](https://kimsaung1022-max.github.io/saunghoon_portfolio/)
 
 👩‍🎓 제작자
 이름: 김상훈
